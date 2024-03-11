@@ -1,12 +1,12 @@
 # Questões:
-``` [1°] Defina uma variável do tipo inteiro, e atribua o valor 10, e depois escreva na tela esse valor ao quadrado. ```
+``` [1°] Crie um programa que calcule quantas horas tem em 3722 minutos```
 ```
 Codigo Feito ✅
 ```
 
 # 
 
-```[2°] Em seguida faça um codigo que o usuário digite um número e no final mostre o quadrado desse numero.```
+```[2°] Em seguida faça um codigo que o usuário digite a quantidades de minutos para hora.```
 
 ```
 Dica: Use o codigo -> scanf();
