@@ -39,25 +39,55 @@
 
 # Historia e Fundamentos
 
-```
-
-```
-
 ### Origens da Linguagem C
 
+- Criação de Dennis Ritchie:
+```
+Desenvolvida por Dennis Ritchie em 1972 para reescrever o sistema operacional UNIX.
 ```
 
+- Portabilidade e Eficiência:
+```
+Reconhecida pela sintaxe simples e elegante, facilitando o entendimento para programadores iniciantes.
+```
+
+- Simplicidade Sintática:
+```
+Destacou-se pela portabilidade e eficiência com linguagens anteriores.
 ```
 
 ### Caracteristicas da Linguagem C
 
+- Portabilidade e Modularidade:
+```
 
+```
+
+- Complicação Separada:
+```
+
+```
+
+- Recursos de Baixo Nível:
 ```
 
 ```
 
 ### Importancia da Linguagem C
 
+- Ampla Ultilização:
 ```
 
 ```
+
+- Base para Outras Linguagens:
+```
+
+```
+
+- Versatilidade:
+```
+
+```
+
+# Estrutura e Sintaxe
