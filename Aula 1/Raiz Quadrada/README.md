@@ -1,8 +1,7 @@
 # Questões:
 ``` [1°] Defina uma variável do tipo inteiro, e atribua o valor 10, e depois escreva na tela esse valor ao quadrado. ```
 ```
-Codigo Feito ✅ 
-Repositorio -> Raiz Quadrada.
+Codigo Feito ✅
 ```
 
 # 
