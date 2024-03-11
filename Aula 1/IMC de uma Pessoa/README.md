@@ -3,7 +3,7 @@
 ```
 Codigo Feito ✅
 ```
-Obsevação -> O código não lê ponto(".") para se referir a uma virgula(",")
+Obsevação -> O código lê ponto(".") para se referir a uma virgula(",")
 
 Usei `%.2f` em meu codigo para se referir a uma formatação de resultado pequena.<br><br>
 O `%` indica que a formatação especial vai ser aplicada.<br>
