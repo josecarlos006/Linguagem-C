@@ -97,6 +97,3 @@ Amplamente conhecida e ultilizando como linguagem de referência.
 # Estrutura e Sintaxe
 
 ### Estruturas Basicas
-
-
-[Questão-1](https://github.com/josecarlos006/Linguagens-C/tree/829d2e2251835959c8c57594fadece342d850879/Aula%201)
