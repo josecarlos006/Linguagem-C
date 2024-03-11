@@ -5,14 +5,16 @@
 ##  Linguagem C
 
 - [História e Fundamentos](#Historia-e-Fundamentos)
-    - [Origens](#hiding-individual-stats)
-    - [Características](#showing-additional-individual-stats)
-    - [Showing icons](#showing-icons)
-    - [Themes](#themes)
-    - [Customization](#customization)
- 
-
-
-
+    - [Origens](#Origens)
+    - [Características](#Características)
+- [Estrutura e Sintaxe](#Estrutura-e-Sintaxe)
+    - [Estruturas Básicas](#Estruturas-Basicas)
+    - [Ponteiros e Alocação de Memória](#Ponteiro-e-Alocacao-Memoria)
+    - [Estrutura de Dados e Arquivos](#Estrutura-de-Dados-e-Arquivos)
+- [Boas Práticas e Aplicações](#showing-icons)
+    - [Boas Práticas de Programação](#showing-additional-individual-stats)
+    - [Aplicações e Exemplos](#hiding-individual-stats)
+    - [Futuro da Limguagem C](#showing-additional-individual-stats)
+    
 
 # História e Fundamentos
