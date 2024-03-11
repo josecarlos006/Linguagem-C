@@ -18,7 +18,7 @@
     - [Aplicacoaes e Exemplos](#aplicacoes-e-exemplos)
     - [Futuro da Limguagem C](#futuro-da-linguagem-c)
 
-# Para Quê serve C/C++/C#? <!--Importancia-->>
+# Para Quê serve C/C++/C#? <!--Importancia-->
 
 - C:
   - C é uma linguagem de programação de propósito geral amplamente usada, especialmente em sistemas operacionais, como o Linux e o Windows.
