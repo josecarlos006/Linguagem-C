@@ -1,5 +1,5 @@
-# Estudando Lógica e Pensamento Computacional I
+# Estudando Lógica e Pensamento Computacional Ⅰ
 Instituição: Escola Técnica Estadual Senador Wilson Campos.<br>
-Módulo I - Desenvolvimento de Sistemas
+Módulo Ⅰ - Desenvolvimento de Sistemas
 
 ###  Linguagem C
