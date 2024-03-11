@@ -1,5 +1,5 @@
 # Questões:
-``` [1°] Calcule a area de uma circuferencia, que possua o raio 2. E o valor pi seja fixo em 3,14. Dica: Formula -> area -> pi * (raio * raio)```
+``` [1°] Calcule a area de uma circuferencia, que possua o raio 2. E o valor pi seja fixo em 3,14. Dica: Formula -> area = pi * (raio * raio)```
 ```
 Codigo Feito ✅
 ```
