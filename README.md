@@ -1,10 +1,12 @@
 # Estudando Lógica e Pensamento Computacional Ⅰ
 
-#### Instituição: Escola Técnica Estadual Senador Wilson Campos
-#### Módulo Ⅰ - Desenvolvimento de Sistemas
-
 - [Aulas](https://github.com/josecarlos006/Linguagens-C/tree/main/Aulas)
 - [Assuntos Basicos](https://github.com/josecarlos006/Linguagens-C/tree/main/Observações)
+
+### Onde utilizar e executar a linguagem C/C++/C#
+
+- [Dev C++](https://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/Dev-Cpp%205.11%20TDM-GCC%20x64%204.9.2%20Portable.7z/download)
+- [GDB Online - Compiler C](https://www.onlinegdb.com/online_c_compiler)
 
 ## Sumário  <!--Sumário -->
 
