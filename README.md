@@ -250,9 +250,10 @@ Amplamente conhecida e ultilizando como linguagem de referência.
 
   - Em C, as strings são representadas como arrays de caracteres terminados por um caractere nulo (`'\0'`).
   - Os ponteiros são frequentemente usados para manipular strings, como acessar caracteres individuais, concatenar strings e copiar strings de uma variável para outra.
-  - A função ``printf()`` em C, por exemplo, utiliza ponteiros para percorrer uma string de formato e imprimir os valores correspondentes.
+  - A função `printf()` em C, por exemplo, utiliza ponteiros para percorrer uma string de formato e imprimir os valores correspondentes.
 
 - Trabalho com Estruturas de Dados:
+
   - Os ponteiros são amplamente utilizados para trabalhar com estruturas de dados, como listas encadeadas, árvores e grafos.
   - Eles permitem referenciar e percorrer os elementos dessas estruturas de dados de forma eficiente, facilitando a manipulação e a análise de dados complexos.
 
@@ -264,13 +265,74 @@ Amplamente conhecida e ultilizando como linguagem de referência.
 
 - Arrays e Estruturas:
 
-  -
+  - Arrays em C:
+
+    - Um array em C é uma coleção de elementos do mesmo tipo de dados, organizados em uma sequência contígua na memória.
+    - Os elementos de um array são acessados por meio de um índice que representa sua posição na sequência.
+    - Arrays são úteis para armazenar e manipular coleções de dados do mesmo tipo de forma eficiente.
+    - Exemplo de declaração e inicialização de um array em C:
+
+    ```
+    int numeros[5] = {1, 2, 3, 4, 5};
+    ```
+
+  - Estruturas em C: 
+    - As estruturas em C permitem agrupar diferentes tipos de dados relacionados em uma única unidade. 
+    - Cada membro da estrutura pode ser de um tipo de dado diferente. 
+    - Estruturas são úteis para representar entidades mais complexas, como pessoas, livros, etc. 
+    - Exemplo de declaração de uma estrutura em C:
+      ```
+      struct Pessoa {
+      char nome[50];
+      int idade;
+      float altura;
+      };
+       ```
+
+  - Utilização de Arrays e Estruturas com Arquivos:
+    - Arrays e estruturas podem ser facilmente armazenados e recuperados de arquivos em C.
+    - Você pode ler e gravar arrays ou estruturas diretamente de/para arquivos usando funções de entrada/saída de arquivo em C, como ``fread()`` e ``fwrite()``.
+    - Exemplo de leitura e gravação de uma estrutura para um arquivo em C:
+        ```
+          #include <stdio.h>
+
+          struct Pessoa {
+            char nome[50];
+            int idade;
+            float altura;
+          };
+
+          int main() {
+            FILE *arquivo;
+            struct Pessoa pessoa;
+
+            // Abrir o arquivo para escrita
+            arquivo = fopen("pessoa.txt", "wb");
+
+            // Verificar se o arquivo foi aberto corretamente
+            if (arquivo == NULL) {
+              printf("Erro ao abrir o arquivo.");
+              return 1;
+            }
+
+            // Escrever a estrutura no arquivo
+            fwrite(&pessoa, sizeof(struct Pessoa), 1, arquivo);
+
+            // Fechar o arquivo
+            fclose(arquivo);
+
+            return 0;
+          }
+        ```
+
 
 - Manipulação de Arquivos:
 
   -
 
-- ## Bibliotecas Específicas:
+- Bibliotecas Específicas:
+
+  -
 
 # Boas Praticas e Aplicacoes
 
