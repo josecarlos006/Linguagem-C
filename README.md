@@ -3,8 +3,8 @@
 #### Instituição: Escola Técnica Estadual Senador Wilson Campos
 #### Módulo Ⅰ - Desenvolvimento de Sistemas
 
-- [Aulas]()
-- [Assuntos Basicos]()
+- [Aulas](https://github.com/josecarlos006/Linguagens-C/tree/main/Aulas)
+- [Assuntos Basicos](https://github.com/josecarlos006/Linguagens-C/tree/main/Observações)
 
 ## Sumário  <!--Sumário -->
 
