@@ -88,13 +88,15 @@ Pode ser utilizado tanto como operador de prefixo (++x) quanto de sufixo (x++). 
 - Representa números inteiros.
 
 
-```xml
-#include <stdio.h>
+```m
+#include <stdio.h> 
 
 int main() {
-    int numero = 10; // Declaração e inicialização da variável 'numero' com o valor 10
+
+    // Declaração e inicialização da variável *numero* com o valor 10
+    int numero = 10;
     
-    // Exibe o valor da variável 'numero'
+    // Exibe o valor da variável *numero*
     printf("O número é: %d \n", numero);
     
     return 0;
@@ -104,6 +106,7 @@ int main() {
 #### `[2°] - float`:
 
 ```
+
 Representa números de ponto flutuante de precisão simples ou os famosos Numeros decimais.
 ```
 
