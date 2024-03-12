@@ -85,9 +85,19 @@ Pode ser utilizado tanto como operador de prefixo (++x) quanto de sufixo (x++). 
 # Tipos de Dados
 
 #### `[1°] - int`:
+- Representa números inteiros.
 
-```
-Representa números inteiros.
+```xml
+#include <stdio.h>
+
+int main() {
+    int numero = 10; // Declaração e inicialização da variável 'numero' com o valor 10
+    
+    // Exibe o valor da variável 'numero'
+    printf("O número é: %d \n", numero);
+    
+    return 0;
+}
 ```
 
 #### `[2°] - float`:
