@@ -19,8 +19,8 @@
   - [Estrutura de Dados e Arquivos](#estrutura-de-dados-e-arquivos)
 - [Boas Praticas e Aplicacoes](#boas-praticas-e-aplicacoes)
   - [Boas Praticas de Programacao](#boas-praticas-de-programacao)
-  - [Aplicacoaes e Exemplos](#aplicacoes-e-exemplos)
-  - [Futuro da Limguagem C](#futuro-da-linguagem-c)
+  - [Aplicacoaes e Exemplos](#aplicacoaes-e-exemplos)
+  - [Futuro da Limguagem C](#futuro-da-limguagem-c)
 
 # Historia e Fundamentos
 
