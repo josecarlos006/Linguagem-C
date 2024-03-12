@@ -87,9 +87,6 @@ Pode ser utilizado tanto como operador de prefixo (++x) quanto de sufixo (x++). 
 #### `[1°] - int`:
 - Representa números inteiros.
 
-<root>
-    <element attribute="<span style='color:red;'>Spam</span>">Content</element>
-</root>
 
 ```xml
 #include <stdio.h>
