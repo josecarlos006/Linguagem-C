@@ -6,7 +6,7 @@ Codigo Feito ✅
 
 # 
 
-```[2°] Em seguida faça um codigo que o usuário digite a quantidades de minutos para hora.```
+```[2°] Em seguida faça um codigo que o usuário digite a quantidades de minutos e que o codigo converta para hora.```
 
 ```
 Dica: Use o codigo -> scanf();
