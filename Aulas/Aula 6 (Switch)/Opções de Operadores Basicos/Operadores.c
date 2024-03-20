@@ -16,10 +16,10 @@ int main()
     scanf("%d", &opcao);
 
     // Pedindo os numeros para se ter o resultado:
-    printf("Digite o primeiro numero: ");
+    printf("\tDigite o primeiro numero: ");
     scanf("%d", &number1);
 
-    printf("Digite o segundo numero: ");
+    printf("\tDigite o segundo numero: ");
     scanf("%d", &number2);
 
     /*
